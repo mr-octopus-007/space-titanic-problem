@@ -1,13 +1,8 @@
-# Python-generated files
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
 .venv
-
-# dot env file
 .env
+logs
+mlruns
+mlflow.db
+data/pre_processed
+data/output
